@@ -8,16 +8,33 @@
 
 - [CodingDrills (Practice your coding skills with Ada, your personal AI tutor)](https://www.codingdrills.com)
 
+## Tools
+
+- [TlDraw](https://www.tldraw.com)
+
 ## Job Interview
 
 - [Что спросить на собеседовании (если я кандидат) — краткий гайд](https://vas3k.club/post/11645/)
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [Вопросы и ответы Frontend](https://comfortable-helmet-4d3.notion.site/Frontend-3e00673ff7c74839af827b55714e889d)
+- [Вопросы на собеседовании фронтенд разработчика React.js](https://github.com/likezninjaz/react-ru-interview-questions)
+- [Собеседование по TypeScript. Вопросы и ответы](https://github.com/FedorovAlexander/typescript-interview-questions-ru)
 
 ## AI in Coding
 
 - [Metabob (AI code review for refactoring and debugging)](https://metabob.com/index.html)
 
+## AI Tools
 - [Phind](https://www.phind.com/)
+- [Tiny LLMs](https://tinyllms.vercel.app/dashboard)
+
+## MUST See
+
+- [The Book of Secret Knowledge. A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+## Open Source
+
+- [mdn/translated-content](https://github.com/mdn/translated-content)
 
 ## Emacs
 
