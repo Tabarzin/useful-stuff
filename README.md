@@ -4,6 +4,9 @@
 
 - [Вы не знаете JS (серия книг)](https://github.com/azat-io/you-dont-know-js-ru)
 
+## Learning
+- [Learn X in Y minutes](https://learnxinyminutes.com)
+
 ## Practice Online
 
 - [CodingDrills (Practice your coding skills with Ada, your personal AI tutor)](https://www.codingdrills.com)
@@ -14,6 +17,7 @@
 
 ## Job Interview
 
+- [Doka: Трудоустройство](https://dream-job.doka.guide)
 - [Что спросить на собеседовании (если я кандидат) — краткий гайд](https://vas3k.club/post/11645/)
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [Вопросы и ответы Frontend](https://comfortable-helmet-4d3.notion.site/Frontend-3e00673ff7c74839af827b55714e889d)
