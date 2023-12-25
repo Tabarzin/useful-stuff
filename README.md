@@ -27,6 +27,7 @@
 ## AI in Coding
 
 - [Metabob (AI code review for refactoring and debugging)](https://metabob.com/index.html)
+- [Programming Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts/blob/main/Programming.md)
 
 ## AI Tools
 - [Phind](https://www.phind.com/)
