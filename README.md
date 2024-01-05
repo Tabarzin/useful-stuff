@@ -3,6 +3,7 @@
 ## Reading
 
 - [Вы не знаете JS (серия книг)](https://github.com/azat-io/you-dont-know-js-ru)
+- [Kirill Mokevnin](https://ru.hexlet.io/u/mokevnin/blog_posts)
 
 ## Learning
 - [Learn X in Y minutes](https://learnxinyminutes.com)
@@ -15,7 +16,7 @@
 
 - [TlDraw](https://www.tldraw.com)
 
-## Job Interview
+## Job / Interview \ Prep
 
 - [Doka: Трудоустройство](https://dream-job.doka.guide)
 - [Что спросить на собеседовании (если я кандидат) — краткий гайд](https://vas3k.club/post/11645/)
@@ -24,6 +25,7 @@
 - [Вопросы на собеседовании фронтенд разработчика React.js](https://github.com/likezninjaz/react-ru-interview-questions)
 - [Собеседование по TypeScript. Вопросы и ответы](https://github.com/FedorovAlexander/typescript-interview-questions-ru)
 - [BigFrontEnd.dev: Practice + Prepare](https://bigfrontend.dev)
+- [LinkedIn Profile Optimization](https://www.freecodecamp.org/news/linkedin-profile-optimization)
 
 ## AI in Coding
 
