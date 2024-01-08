@@ -77,6 +77,14 @@
 
 - [mdn/translated-content](https://github.com/mdn/translated-content)
 
+## Linux
+
+- [Learn the ways of Linux-fu](https://linuxjourney.com)
+- [A hub for Linux Tutorials and Tips](https://linuxopsys.com/)
+- [Linux Handbook](https://linuxhandbook.com/)
+- [Linux Survival](https://linuxsurvival.com/)
+- [TecMint.com](https://www.tecmint.com/)
+
 ## Emacs
 
 - [emacs-languagetool](https://github.com/emacs-languagetool)
