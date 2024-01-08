@@ -7,6 +7,7 @@
 
 ## Learning
 - [Learn X in Y minutes](https://learnxinyminutes.com)
+- [Google Developers Codelabs](https://developers.google.com/codelabs)
 
 ## Practice Online
 
@@ -27,6 +28,7 @@
 - [BigFrontEnd.dev: Practice + Prepare](https://bigfrontend.dev)
 - [LinkedIn Profile Optimization](https://www.freecodecamp.org/news/linkedin-profile-optimization)
 - [Что спросить работодателя «на берегу»](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/767696/?s=03)
+- [Давай найдём работу! Таблица с тг-каналами](https://docs.google.com/spreadsheets/d/1LHvMb8USHrwSKG6t5A4XIhkL_W3g7s-W83cwEtopCsc/edit#gid=0)
 
 ## AI in Coding
 
