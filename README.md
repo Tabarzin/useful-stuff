@@ -47,6 +47,7 @@
 - [Вопросы и ответы Frontend](https://comfortable-helmet-4d3.notion.site/Frontend-3e00673ff7c74839af827b55714e889d)
 - [Вопросы на собеседовании фронтенд разработчика React.js](https://github.com/likezninjaz/react-ru-interview-questions)
 - [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
+- [Вопросы и ответы для собеседования на позицию frontend-разработчик. Часть 1](https://habr.com/ru/articles/784548/)
 - [Собеседование по TypeScript. Вопросы и ответы](https://github.com/FedorovAlexander/typescript-interview-questions-ru)
 - [BigFrontEnd.dev: Practice + Prepare](https://bigfrontend.dev)
 - [LinkedIn Profile Optimization](https://www.freecodecamp.org/news/linkedin-profile-optimization)
