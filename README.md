@@ -28,7 +28,7 @@
 - [CSS Challenges](https://css-challenges.com/)
 - [Frontend Mentor](https://www.frontendmentor.io)
 
-## Tools & Stuff
+## Tools, Helpers & Stuff
 
 - [TlDraw](https://www.tldraw.com)
 - [CSS Layout Generator](https://layout.bradwoods.io/)
@@ -39,6 +39,7 @@
 - [Collection of CSS animations](https://xsgames.co/animatiss)
 - [Pure CSS Loader Generator](https://wweb.dev/resources/loader-generator)
 - [Open-Source UI elements](https://uiverse.io)
+- [Oh Shit, Git!?!](https://ohshitgit.com)
 
 ## Job / Interview \ Prep
 
