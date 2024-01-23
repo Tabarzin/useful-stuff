@@ -41,6 +41,7 @@
 - [Open-Source UI elements](https://uiverse.io)
 - [Oh Shit, Git!?!](https://ohshitgit.com)
 - [Remove Watermark](https://dewatermark.ai)
+- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages
 
 ## Job / Interview \ Prep
 
