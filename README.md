@@ -42,6 +42,7 @@
 - [Oh Shit, Git!?!](https://ohshitgit.com)
 - [Remove Watermark](https://dewatermark.ai)
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages
+- [The Front-End Checklist](https://frontendchecklist.io/)
 
 ## Job / Interview \ Prep
 
