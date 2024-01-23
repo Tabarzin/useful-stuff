@@ -40,6 +40,7 @@
 - [Pure CSS Loader Generator](https://wweb.dev/resources/loader-generator)
 - [Open-Source UI elements](https://uiverse.io)
 - [Oh Shit, Git!?!](https://ohshitgit.com)
+- [Remove Watermark](https://dewatermark.ai)
 
 ## Job / Interview \ Prep
 
