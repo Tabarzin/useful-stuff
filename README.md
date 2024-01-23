@@ -80,6 +80,7 @@
 ## MUST See
 
 - [The Book of Secret Knowledge. A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks/tree/master)
 
 ## Open Source
 
