@@ -71,6 +71,7 @@
 - [Tiny LLMs](https://tinyllms.vercel.app/dashboard)
 - [Krea - image generation](https://www.krea.ai/home)
 - [Cosine. AI Co-Developer](https://cosine.sh)
+- [Web Development Tools With ChatGPT](https://www.whatplugin.ai/category/web-development-tools)
 
 ## MUST See
 
