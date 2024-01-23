@@ -69,6 +69,7 @@
 
 ## AI Tools
 - [Phind](https://www.phind.com/)
+- [gpt4free](https://github.com/xtekky/gpt4free)
 - [Tiny LLMs](https://tinyllms.vercel.app/dashboard)
 - [Krea - image generation](https://www.krea.ai/home)
 - [Cosine. AI Co-Developer](https://cosine.sh)
