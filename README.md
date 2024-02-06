@@ -76,7 +76,7 @@
 - [Krea - image generation](https://www.krea.ai/home)
 - [Cosine. AI Co-Developer](https://cosine.sh)
 - [Web Development Tools With ChatGPT](https://www.whatplugin.ai/category/web-development-tools)
-- [Generate website](https://www.relume.io/)
+- [Relume - website generator](https://www.relume.io/)
 
 ## MUST See
 
