@@ -21,6 +21,7 @@
 - [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns)
 - [Learn the logic of great typography](https://www.learnui.design/tools/typography-tutorial.html?s=03)
 - [Hexlet. Статьи о технологиях, инструментах и практиках](https://guides.hexlet.io/ru/)
+- [Learn and Practice Modern CSS](https://moderncss.dev/)
 
 ## Practice Online
 
