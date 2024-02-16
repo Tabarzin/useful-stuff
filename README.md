@@ -88,6 +88,7 @@
 ## Open Source
 
 - [mdn/translated-content](https://github.com/mdn/translated-content)
+- [Культура и инструменты open source разработки](https://github.com/kruzhok-team/fossdev)
 
 ## Linux
 
