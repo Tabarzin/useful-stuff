@@ -66,6 +66,10 @@
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [База знаний LinkedIn](https://mvrgrr.notion.site/mvrgrr/LinkedIn-7f746814c9c245fea9459f88358ac0c4)
 
+
+## Algorithms & Data Structures
+- [Крупнейшая библиотека алгоритмов](https://the-algorithms.com/ru)
+
 ## AI in Coding
 
 - [Metabob (AI code review for refactoring and debugging)](https://metabob.com/index.html)
