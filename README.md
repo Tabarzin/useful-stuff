@@ -32,6 +32,7 @@
 - [CSS Challenges](https://css-challenges.com/)
 - [Frontend Mentor](https://www.frontendmentor.io)
 - [SenJun: Курсы для программистов от программистов](https://senjun.ru/)
+- [CSBin](http://csbin.io/)
 
 ## Tools, Helpers & Stuff
 
