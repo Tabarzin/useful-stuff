@@ -23,6 +23,8 @@
 - [Hexlet. Статьи о технологиях, инструментах и практиках](https://guides.hexlet.io/ru/)
 - [Learn and Practice Modern CSS](https://moderncss.dev/)
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+- [Patterns.dev](https://www.patterns.dev/)
+- [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
 
 ## Practice Online
 
@@ -71,6 +73,7 @@
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - [The great way to prepare for front end interviews](https://www.greatfrontend.com/)
 - [Browser Event loop](https://blog.xnim.me/event-loop-and-render-queue)
+- [JavaScript Visualized:Promise Execution](https://www.lydiahallie.com/blog/promise-execution)
 
 
 ## Algorithms & Data Structures
@@ -90,6 +93,10 @@
 - [Web Development Tools With ChatGPT](https://www.whatplugin.ai/category/web-development-tools)
 - [Relume - website generator](https://www.relume.io/)
 - [Codeium](https://codeium.com/)
+- [Jarvis AI-simulated personalised interviews](https://portal.interviewjarvis.com/login)
+- [phind](https://www.phind.com/search?home=true)
+- [Blackbox AI](https://www.blackbox.ai/)
+
 
 ## MUST See
 
