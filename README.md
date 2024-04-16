@@ -29,6 +29,7 @@
 - [CodingDrills (Practice your coding skills with Ada, your personal AI tutor)](https://www.codingdrills.com)
 - [CSS Challenges](https://css-challenges.com/)
 - [Frontend Mentor](https://www.frontendmentor.io)
+- [SenJun: Курсы для программистов от программистов](https://senjun.ru/)
 
 ## Tools, Helpers & Stuff
 
@@ -65,6 +66,11 @@
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [База знаний LinkedIn](https://mvrgrr.notion.site/mvrgrr/LinkedIn-7f746814c9c245fea9459f88358ac0c4)
+- [Implementing JavaScript Concepts from Scratch](https://dev.to/antonzo/implementing-javascript-concepts-from-scratch-4623)
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+- [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
+- [The great way to prepare for front end interviews](https://www.greatfrontend.com/)
+- [Browser Event loop](https://blog.xnim.me/event-loop-and-render-queue)
 
 
 ## Algorithms & Data Structures
@@ -83,6 +89,7 @@
 - [Cosine. AI Co-Developer](https://cosine.sh)
 - [Web Development Tools With ChatGPT](https://www.whatplugin.ai/category/web-development-tools)
 - [Relume - website generator](https://www.relume.io/)
+- [Codeium](https://codeium.com/)
 
 ## MUST See
 
@@ -111,5 +118,7 @@
 - [Есть ли разница между выражениями !!( a && b ) и (a && b)?](https://ru.stackoverflow.com/questions/602128/%D0%95%D1%81%D1%82%D1%8C-%D0%BB%D0%B8-%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8-a-b-%D0%B8-a-b)
 - [How to Use JavaScript's Array reduce() Method](https://www.freecodecamp.org/news/how-to-use-javascript-array-reduce-method/?s=03)
 - [Music for Programming](https://musicforprogramming.net)
+- [Что за черт, Javascript](https://habr.com/ru/companies/vk/articles/335292/)
+
   
 
