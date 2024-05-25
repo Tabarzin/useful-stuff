@@ -52,6 +52,7 @@
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages
 - [The Front-End Checklist](https://frontendchecklist.io/)
 - [SVGViewer](https://www.svgviewer.dev/)
+- [CSS Gradients](https://csspro.com/css-gradients)
 
 ## Job / Interview \ Prep
 
