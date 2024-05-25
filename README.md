@@ -26,6 +26,7 @@
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 - [Patterns.dev](https://www.patterns.dev/)
 - [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
+- [Learn Git Branching](https://learngitbranching.js.org)
 
 ## Practice Online
 
