@@ -7,6 +7,7 @@
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide)
 - [Software Engineering at Google](https://abseil.io/resources/swe-book?s=03)
 - [Визуализация промисов и Async/Await](https://habr.com/ru/articles/501702/)
+- [Полное понимание асинхронности в браузере](https://habr.com/ru/companies/yandex/articles/718084/)
 
 ## Learning
 - [Learn X in Y minutes](https://learnxinyminutes.com)
