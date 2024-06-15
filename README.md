@@ -56,6 +56,7 @@
 - [The Front-End Checklist](https://frontendchecklist.io/)
 - [SVGViewer](https://www.svgviewer.dev/)
 - [CSS Gradients](https://csspro.com/css-gradients)
+- [AI CSS Animations](https://www.aicssanimations.com/)
 
 ## Job / Interview \ Prep
 
