@@ -27,6 +27,7 @@
 - [Patterns.dev](https://www.patterns.dev/)
 - [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
 - [Learn Git Branching](https://learngitbranching.js.org)
+- [JavaScript Visualizer 9000](https://www.jsv9000.app/)
 
 ## Practice Online
 
