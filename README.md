@@ -57,6 +57,7 @@
 - [SVGViewer](https://www.svgviewer.dev/)
 - [CSS Gradients](https://csspro.com/css-gradients)
 - [AI CSS Animations](https://www.aicssanimations.com/)
+- [Aliasing paths in Vite projects w/ TypeScript](https://dev.to/tilly/aliasing-in-vite-w-typescript-1lfo)
 
 ## Job / Interview \ Prep
 
