@@ -8,6 +8,7 @@
 - [Software Engineering at Google](https://abseil.io/resources/swe-book?s=03)
 - [Визуализация промисов и Async/Await](https://habr.com/ru/articles/501702/)
 - [Полное понимание асинхронности в браузере](https://habr.com/ru/companies/yandex/articles/718084/)
+- [Exploring JavaScript (ES2024 Edition)](https://exploringjs.com/js/book/index.html)
 
 ## Learning
 - [Learn X in Y minutes](https://learnxinyminutes.com)
@@ -58,6 +59,7 @@
 - [CSS Gradients](https://csspro.com/css-gradients)
 - [AI CSS Animations](https://www.aicssanimations.com/)
 - [Aliasing paths in Vite projects w/ TypeScript](https://dev.to/tilly/aliasing-in-vite-w-typescript-1lfo)
+- [CSS Grid Generator](https://cssgridgenerator.io/)
 
 ## Job / Interview \ Prep
 
@@ -84,6 +86,7 @@
 - [The great way to prepare for front end interviews](https://www.greatfrontend.com/)
 - [Browser Event loop](https://blog.xnim.me/event-loop-and-render-queue)
 - [JavaScript Visualized:Promise Execution](https://www.lydiahallie.com/blog/promise-execution)
+- [500+ JavaScript Interview Questions and Answers](https://applyre.com/resources/500-javascript-interview-questions/)
 
 
 ## Algorithms & Data Structures
