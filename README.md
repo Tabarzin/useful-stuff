@@ -60,6 +60,7 @@
 - [AI CSS Animations](https://www.aicssanimations.com/)
 - [Aliasing paths in Vite projects w/ TypeScript](https://dev.to/tilly/aliasing-in-vite-w-typescript-1lfo)
 - [CSS Grid Generator](https://cssgridgenerator.io/)
+- [Carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
 
 ## Job / Interview \ Prep
 
