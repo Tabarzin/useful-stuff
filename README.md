@@ -61,6 +61,9 @@
 - [Aliasing paths in Vite projects w/ TypeScript](https://dev.to/tilly/aliasing-in-vite-w-typescript-1lfo)
 - [CSS Grid Generator](https://cssgridgenerator.io/)
 - [Carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
+- [CSS Gradient Generator](https://cssgradientgenerator.com/)
+- [Gradient Generator](https://www.learnui.design/tools/gradient-generator.html)
+- [CSS Editor](https://getbutterfly.com/css-editor)
 
 ## Job / Interview \ Prep
 
