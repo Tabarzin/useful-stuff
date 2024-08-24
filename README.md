@@ -64,6 +64,7 @@
 - [CSS Gradient Generator](https://cssgradientgenerator.com/)
 - [Gradient Generator](https://www.learnui.design/tools/gradient-generator.html)
 - [CSS Editor](https://getbutterfly.com/css-editor)
+- [CSS mesh gradients](https://www.mshr.app)
 
 ## Job / Interview \ Prep
 
