@@ -9,6 +9,7 @@
 - [Визуализация промисов и Async/Await](https://habr.com/ru/articles/501702/)
 - [Полное понимание асинхронности в браузере](https://habr.com/ru/companies/yandex/articles/718084/)
 - [Exploring JavaScript (ES2024 Edition)](https://exploringjs.com/js/book/index.html)
+- [The Nature of Code](https://natureofcode.com/)
 
 ## Learning
 - [Learn X in Y minutes](https://learnxinyminutes.com)
