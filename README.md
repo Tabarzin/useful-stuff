@@ -93,6 +93,7 @@
 - [Browser Event loop](https://blog.xnim.me/event-loop-and-render-queue)
 - [JavaScript Visualized:Promise Execution](https://www.lydiahallie.com/blog/promise-execution)
 - [500+ JavaScript Interview Questions and Answers](https://applyre.com/resources/500-javascript-interview-questions/)
+- [Роадмэп по современному фронтенду от KTS](https://habr.com/ru/companies/kts/articles/775948/)
 
 
 ## Algorithms & Data Structures
