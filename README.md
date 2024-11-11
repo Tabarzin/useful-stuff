@@ -66,6 +66,8 @@
 - [Gradient Generator](https://www.learnui.design/tools/gradient-generator.html)
 - [CSS Editor](https://getbutterfly.com/css-editor)
 - [CSS mesh gradients](https://www.mshr.app)
+- [Neumorphism.io](https://neumorphism.io/)
+- 
 
 ## Job / Interview \ Prep
 
