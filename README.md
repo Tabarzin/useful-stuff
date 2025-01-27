@@ -68,7 +68,7 @@
 - [CSS Editor](https://getbutterfly.com/css-editor)
 - [CSS mesh gradients](https://www.mshr.app)
 - [Neumorphism.io](https://neumorphism.io/)
-- 
+- [React Scan](https://react-scan.com/)
 
 ## Job / Interview \ Prep
 
