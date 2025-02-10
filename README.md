@@ -34,6 +34,8 @@
 - [JavaScript Visualizer 9000](https://www.jsv9000.app/)
 - [Accessibility essentials every front-end developer should know](https://martijnhols.nl/blog/accessibility-essentials-every-front-end-developer-should-know)
 - [Beginner's TypeScript](https://www.totaltypescript.com/tutorials/beginners-typescript)
+- [Javascript & Node.js Testing](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-ru.md)
+- 
 
 ## Practice Online
 
