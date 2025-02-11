@@ -1,4 +1,4 @@
-# Useful Stuff
+# Useful WebDev and Programming Stuff
 
 ## Reading
 
@@ -10,6 +10,7 @@
 - [Полное понимание асинхронности в браузере](https://habr.com/ru/companies/yandex/articles/718084/)
 - [Exploring JavaScript (ES2024 Edition)](https://exploringjs.com/js/book/index.html)
 - [The Nature of Code](https://natureofcode.com/)
+- [A Programmer's Introduction to Mathematics](https://pimbook.org/)
 
 ## Learning
 - [Learn X in Y minutes](https://learnxinyminutes.com)
@@ -73,6 +74,8 @@
 - [Neumorphism.io](https://neumorphism.io/)
 - [React Scan](https://react-scan.com/)
 - [Accessibility Cheatsheet](https://moritzglantz.de/accessibility-cheatsheet)
+- [REPL JS an online JavaScript editor for tinkering and testing](https://repljs.com/)
+- [Free for Developers](https://free-for.dev)
 
 ## Job / Interview \ Prep
 
