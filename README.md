@@ -11,6 +11,7 @@
 - [Exploring JavaScript (ES2024 Edition)](https://exploringjs.com/js/book/index.html)
 - [The Nature of Code](https://natureofcode.com/)
 - [A Programmer's Introduction to Mathematics](https://pimbook.org/)
+- [Сергей Константинов. API](https://twirl.github.io/The-API-Book/)
 
 ## Learning
 - [Learn X in Y minutes](https://learnxinyminutes.com)
