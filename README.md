@@ -77,6 +77,7 @@
 - [Accessibility Cheatsheet](https://moritzglantz.de/accessibility-cheatsheet)
 - [REPL JS an online JavaScript editor for tinkering and testing](https://repljs.com/)
 - [Free for Developers](https://free-for.dev)
+- [Free public APIs](https://www.freepublicapis.com/)
 
 ## Job / Interview \ Prep
 
